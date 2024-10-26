@@ -13,7 +13,7 @@ const navLinks = [
   },
   {
     display: "Menu",
-    url: "#",
+    url: "#menu",
   },
   {
     display: "Recipes",
